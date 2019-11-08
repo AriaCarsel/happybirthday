@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">happybirthday</string>
+    <string name="TextView1">生日贺卡</string>
+    <string name="TextView2">致亲爱的阿屁：</string>
+    <string name="TextView3">你的室友们</string>
+</resources>

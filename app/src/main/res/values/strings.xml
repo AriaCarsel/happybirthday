@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">happybirthday</string>
+    <string name="TextView1">BirthdayCard</string>
+    <string name="TextView2">To Dear Johanna:</string>
+    <string name="TextView3">Your roommates</string>
+    <string name="TextView4" translatable="false">2019-9-16</string>
+</resources>
